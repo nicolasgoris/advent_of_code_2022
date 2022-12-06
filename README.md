@@ -1,5 +1,5 @@
 # Advent Of Code - 2022
-Edition: [2022](https://adventofcode.com/2022)  
+Edition: [2022](https://adventofcode.com/2022)
 More information: https://adventofcode.com/
 
 ## Example code
